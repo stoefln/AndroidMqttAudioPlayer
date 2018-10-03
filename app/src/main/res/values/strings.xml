@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MqttAudioPlayer</string>
+    <string name="preference_file_key">default</string>
+</resources>
